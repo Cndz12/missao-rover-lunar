@@ -12,8 +12,8 @@ O projeto tem como objetivo praticar conceitos básicos de programação em Java
 
 -  Inicialização dos sistemas do Rover
 -  Verificação dos painéis solares
--  Exibição do nível da bateria
--  Exibição das informações no console
+-  Visibilidade do nível da bateria
+-  Visibilidade das informações no console
 
 ## Código
 
